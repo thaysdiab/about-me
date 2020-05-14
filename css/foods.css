@@ -1,0 +1,44 @@
+body{
+    background-color: linen; 
+}
+
+#title{
+    font-family: 'Great Vibes', cursive;
+    font-size:  70px;
+    text-align: center;
+    margin-top: 7vh;
+    margin-bottom: 7vh;
+    
+}
+
+#ingredients{
+    color: rgb(182, 128, 128);
+    font-size: 40px;
+    font-family: 'Great Vibes', cursive;
+    margin: 0 ;
+    margin-bottom: 3vh;
+}
+ul, li{
+    font-family: 'Raleway', sans-serif;
+    font-size:  15px;
+    font-weight: bold;
+    color: black;
+}
+
+#preparation-mode{
+    color: rgb(182, 128, 128);
+    font-size: 40px;
+    font-family: 'Great Vibes', cursive;
+    margin: 0;
+    margin-bottom: 3vh;
+}
+
+tr{
+    
+    display: inline-flex;
+    justify-content: center;
+}
+thead{
+    display: flex;
+    flex-direction: row;
+}

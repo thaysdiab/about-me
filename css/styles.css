@@ -1,0 +1,57 @@
+
+#title{
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;
+    color:black;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+#navigation{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-top: 5vh;
+}
+
+#button-favorites{
+    border-radius: 40px 40px;
+    height: 45px;
+    background-color: rosybrown;
+    font-weight: 500;
+    margin-left: 15px;
+    width: 200px;
+    transition: ease-in-out .2s;  
+  
+}
+#button-favorites:hover{
+    transform: scale(1.2);
+    opacity: 0.8;   
+}
+
+.link-favorites{
+    color: rgba(17, 16, 16, 0.973);
+    font-size: 22px;
+    text-decoration: none;   
+}
+
+body{
+    background-color: linen; 
+}
+
+.apresentation{
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    color:black;
+    text-align: center;
+    margin-top: 10vh;
+    padding: 20px;
+}
+.apresentation-two{
+    font-family: 'Great Vibes', cursive;
+    font-size: 57px;
+    color:black;
+    text-align: center;
+    margin-top: 10vh;
+    padding: 20px;
+}
